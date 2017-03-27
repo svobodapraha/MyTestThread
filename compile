@@ -1,0 +1,5 @@
+#/bin/bash
+gcc thread-create.c -o thread-create -lpthread
+
+
+
